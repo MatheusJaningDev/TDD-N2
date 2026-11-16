@@ -34,7 +34,7 @@ Aplica-se a todos os artefatos do projeto:
 | Papel | Responsável | Responsabilidades |
 |-------|-------------|-------------------|
 | Desenvolvedor / Gerente de Configuração | Matheus Janing | Criar branches, abrir PRs, manter o plano de GCS, configurar proteção de branches e environments |
-| Revisor (par de revisão) | [Nome do colega com acesso de escrita] | Revisar e aprovar Pull Requests |
+| Revisor (par de revisão) | Thiago Rodrigues Canal | Revisar e aprovar Pull Requests |
 
 ---
 
