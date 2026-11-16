@@ -124,10 +124,10 @@ Foram configurados os seguintes Environments no GitHub:
 | **production** | Ambiente de produção | **Revisor obrigatório: Matheus Janing** |
 
 ### Configuração do Environment `production`
-- Required reviewers: **MatheusJaningDev** (você)
-- Deployment branches: apenas `main` (ou tags de release)
+- Required reviewers: **MatheusJaningDev** 
+- Deployment branches: apenas `main` 
 
-Isso garante que nenhum deploy em produção ocorra sem a sua aprovação explícita.
+Isso garante que nenhum deploy em produção ocorra sem a aprovação explícita.
 
 ---
 
@@ -159,7 +159,7 @@ Tags devem ser criadas na `main` após merge e aprovação.
 
 - Repositório remoto: GitHub (fonte da verdade)
 - Repositório local: cada desenvolvedor
-- `.env` e segredos **nunca** são commitados (constam no `.gitignore`)
+- `.env` e segredos nunca são commitados (constam no `.gitignore`)
 
 ---
 
